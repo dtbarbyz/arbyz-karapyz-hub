@@ -29,7 +29,7 @@ TextButton.Text = "get key"
 TextButton.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextButton.TextSize = 14.000
 TextButton.MouseButton1Click:Connect(function(plr)
-	setclipboard("https://discord.gg/yPe5NczpY9")
+	setclipboard("https://discord.gg/kU9F7zbS")
 end)
 
 TextLabel.Parent = Frame
